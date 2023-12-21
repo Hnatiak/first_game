@@ -282,15 +282,3 @@ function pick(guess) {
     }
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-  
